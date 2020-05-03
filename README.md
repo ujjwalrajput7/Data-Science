@@ -1,4 +1,4 @@
-# Analysis Questionnaries In Different Years....
+# Analysis Questionnaries In Different Years..
 
 --------------------------------------
 1. [Installation](#installation)
